@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jason8452
 - 👀 I’m interested in Coding, Computer Science, Computer Engineering, Cyber Security, and so much more stuff related to coding!
-- 🌱 I’m currently learning JavaScript and C++!
+- 🌱 I’m currently learning JavaScript, Python, HTML, CSS, Java, and C++!
 - 💞️ I’m looking to collaborate on different projects to boost my resume!
 - 📫 How to reach me: jaylee8452@gmail.com
 
